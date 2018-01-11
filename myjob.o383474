@@ -1,0 +1,20 @@
+Run 1...
+2
+Thread 0 working on component 0
+Thread 0 working on component 1
+Thread 1 working on component 2
+Thread 1 working on component 3
+square root of 1.000000 is = 14710564978688.000000
+square root of 2.000000 is = 0.000000
+square root of 3.000000 is = 5521826381824.000000
+square root of 4.000000 is = 0.000000
+Run 2...
+16
+Thread 0 working on component 0
+Thread 1 working on component 1
+Thread 2 working on component 2
+Thread 3 working on component 3
+square root of 1.000000 is = -2213057396736.000000
+square root of 2.000000 is = 0.000000
+square root of 3.000000 is = -873838149632.000000
+square root of 4.000000 is = 0.000000
